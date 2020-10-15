@@ -1,1 +1,1 @@
-print('Yeahhh')
+print(3 + 2)
